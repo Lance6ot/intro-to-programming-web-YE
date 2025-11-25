@@ -1,0 +1,21 @@
+.StartWithD {
+    background-color: lightgreen;
+}
+.StartWithC {
+    background-color: lightcoral;
+}
+.StartWithP {
+    background-color: lightblue;
+}
+.StartWithB {
+    background-color: brown;
+}
+
+#tittleOfPage {
+    color: red;
+    background-color: violet;
+}
+
+body{
+    background-color: linen;
+}
